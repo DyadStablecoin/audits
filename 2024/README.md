@@ -1,4 +1,4 @@
-# Smart-contracts performed in 2024
+# Smart-contracts audits performed in 2024
 
 ## Hunter Security: reviewed between 2024-0327 and 2024-03-30
 

@@ -1,4 +1,4 @@
-# Smart-contracts performed in 2023
+# Smart-contracts audits performed in 2023
 
 ## 0x52: reviewed on 2023-03-17
 
