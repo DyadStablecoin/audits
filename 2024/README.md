@@ -1,6 +1,6 @@
 # Smart-contracts audits performed in 2024
 
-## Hunter Security: reviewed between 2024-0327 and 2024-03-30
+## Hunter Security: reviewed between 2024-03-27 and 2024-03-30
 
 The [DyadStablecoin/contract](https://github.com/DyadStablecoin/contracts) repo was reviewed at the following commit: [f320675fb7c203c8efd434023f2cc2b71804d94c](https://github.com/DyadStablecoin/contracts/tree/f320675fb7c203c8efd434023f2cc2b71804d94c)
 
