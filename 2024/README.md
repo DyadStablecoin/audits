@@ -20,13 +20,13 @@ The [C4 DYAD repository](https://github.com/code-423n4/2024-04-dyad) was reviewe
 
 ### Scope
 
-- */src/staking/KerosineDenominator.sol*
-- */src/core/VaultManagerV2.sol*
-- */src/core/Vault.kerosine.sol*
-- */src/core/KerosineManager.sol*
-- */src/core/Vault.kerosine.bounded.sol*
-- */src/core/Vault.kerosine.unbounded.sol*
-- */script/deploy/Deploy.V2.s.sol*
+- *src/staking/KerosineDenominator.sol*
+- *src/core/VaultManagerV2.sol*
+- *src/core/Vault.kerosine.sol*
+- *src/core/KerosineManager.sol*
+- *src/core/Vault.kerosine.bounded.sol*
+- *src/core/Vault.kerosine.unbounded.sol*
+- *script/deploy/Deploy.V2.s.sol*
 
 Full report can be found [here](https://code4rena.com/reports/2024-04-dyad)
 
@@ -63,3 +63,14 @@ The [DyadStablecoin/contract](https://github.com/DyadStablecoin/contracts/tree/f
 - *script/deploy/Deploy.Momentum.s.sol*
 
 Full report can be found [here](./assets/20240722_alqaqa.pdf)
+
+## Al-QaQa: reviewed on 2024-08-30
+
+The [DyadStablecoin/contract](https://github.com/DyadStablecoin/contracts/tree/feat/momentum) repo was reviewed at the following commit: [c230ef5b2cb6c3b6e60081f32d78b034a7a410cb](https://github.com/DyadStablecoin/contracts/tree/c230ef5b2cb6c3b6e60081f32d78b034a7a410cb)
+
+### Scope
+
+- *src/core/Vault.weETH.sol*
+- *script/deploy/Deploy.weETH.Vault.s.sol*
+
+Full report can be found [here](./assets/20240830_alqaqa.pdf)
